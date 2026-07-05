@@ -1,6 +1,6 @@
 # Assignment 03 — Predicting Used-Car Fair Market Price
 
-**Course:** EECE 6544 — Introduction to Machine Learning and Pattern Recognition (Summer 2026)
+**Course:** EECE 5644 — Introduction to Machine Learning and Pattern Recognition (Summer 2026)
 
 Noah Caney and Aakarsh Arora
 
@@ -32,16 +32,13 @@ The notebook follows a standard supervised-learning workflow:
 The dataset (`car_details_v4.csv`) contains about 2,000 used-car listings with 20 columns,
 including the target column `Price`.
 
-It is already included in this repository, so no separate download is required. If you ever need
-to obtain it again, it is a public used-car listings dataset ("Car details v4") available on
-Kaggle — search for "Car details v4" and download the CSV, then place it in the same folder as
-the notebook (or upload it to Colab as described below).
+It is already included in this repository, so no separate download is required.
 
 ## How to run
 
 ### Google Colab
 
-1. Open `Assignment_03_Car_Price_Prediction.ipynb` in [Google Colab](https://colab.research.google.com/).
+1. Open `Assignment03.ipynb` in Google Colab.
 2. Click the folder icon in the left sidebar, then upload `car_details_v4.csv`.
 3. Run the cells from top to bottom (Runtime → Run all).
 
