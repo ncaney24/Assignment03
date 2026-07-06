@@ -1,4 +1,4 @@
-# Assignment 03 — Predicting Used-Car Fair Market Price
+# Assignment 03 - Predicting Used-Car Fair Market Price
 
 **Course:** EECE 5644 — Introduction to Machine Learning and Pattern Recognition (Summer 2026)
 
